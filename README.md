@@ -8,3 +8,4 @@ Basically, we'll try to answer the following question:
 Update 31-OCT-2021:
 
 Added version 3 now with 2,500+ songs.
+Added new csv with all the tracks and artists information combined, so now you just need one source for everything.
